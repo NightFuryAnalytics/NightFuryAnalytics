@@ -32,25 +32,25 @@ I’m a **data scientist & strategist**, passionate about turning complex data i
 
 ## 🚀 **Notable Projects**  
 
-### 🌿 **Product-Market Fit for a Perfume Startup Pre-Launch ** *(R, Behavioral Analytics)*  
+### 🌿 Product-Market Fit for a Perfume Startup Pre-Launch *(R, Behavioral Analytics)*  
 - 📊 **Surveyed 65+ customers** to analyze preference trends.  
 - 🔍 Used **logistic regression & Kansei Analysis** to segment user preferences and craft **distinct behavioral profiles**.  
 - 📈 Built a **market share simulator** to forecast demand. Perfumes @ [Fragonia](https://fragonia.com.pk/)
 
-### 📰 **Classifying Urdu News Articles Using ML** *(Python, NLP)*  
+### 📰 Classifying Urdu News Articles Using ML *(Python, NLP)*  
 Scraped **1,500+ articles**, built an **ML pipeline**, and optimized classification with **98% accuracy**.  
 🔗 [Repo](https://github.com/NightFuryAnalytics/multi-text-classification)
 
-### ❤️ **Predicting Heart Failure Mortality** *(Python, ML)*  
+### ❤️ Predicting Heart Failure Mortality *(Python, ML)*  
 Cleaned & analyzed **patient data**, trained **Logistic Regression, Naïve Bayes, & Decision Trees**, achieving **73% accuracy**.  
 🔗 [Repo](https://github.com/NightFuryAnalytics/heart_failure)  
 
-### 🏗 **Strategic Decision-Making for Aziz Industries** *(Monte Carlo, Decision Trees)*  
+### 🏗 Strategic Decision-Making for Aziz Industries *(Monte Carlo, Decision Trees)*  
 - 📊 Analyzed **vertical integration vs. asset liquidation**.  
 - 🔍 Used **Monte Carlo simulations** for risk forecasting.  
 - 💰 Recommended **asset liquidation**, leading to **$5.6 million** in additional returns.  
 
-### 📦 **Optimizing Logistics for Maria B.** *(Regression, Demand Forecasting)*  
+### 📦 Optimizing Logistics for Maria B. *(Regression, Demand Forecasting)*  
 - 📊 **Predicted nationwide demand** across **24 stores** using seasonality models.  
 - 🚚 **Optimized courier allocation**, reducing costs by **$25,000 annually**.  
 
