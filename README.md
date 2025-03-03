@@ -1,66 +1,66 @@
-# 👋 Welcome to my profile!
-**Data Science & Strategy | Turning Insights into Scalable Business Impact**
+# 👋 Welcome to my life story!  
 
-I am a passionate student of data science with a profound interest in leveraging data to drive tangible business outcomes. With a blend of technical expertise and business rigor, I bridge the gap between raw data and real-world impact. Whether it's optimizing operations, finding product-market fit, or driving exponential growth, I use data to solve problems and create measurable value.
+### 🔍 Data Science | Strategy | Business Impact  
 
-## 💼 Professional Experience
-### 🔹 Product Intelligence Intern | EZO
-🛠 **Workflow Optimization**: Simulated workflows across 15+ processes, eliminating bottlenecks and improving system efficiency.
+I’m a **data scientist & strategist**, passionate about turning complex data into actionable business insights. Whether it's **optimizing operations, refining product-market fit, or driving strategic growth**, I use data to solve real-world problems.  
 
-📊 **Predictive Modeling**: Developed an ML model (82% accuracy) using Mixpanel & Zoho data to forecast customer subscriptions.
+💡 **Key Focus Areas:**  
+- **Machine Learning & Predictive Analytics** – Leveraging data to optimize decisions.  
+- **Business Strategy & Growth** – Using insights to scale businesses.  
+- **Product Analytics & Market Research** – Identifying trends that drive impact.  
 
-🔍 **Competitive Analysis**: Conducted an in-depth analysis of pricing, features, and UI/UX, providing insights to reduce churn.
+---
 
-### 🎓 Teaching Assistant | Lahore University of Management Sciences (LUMS)
-📚 **Student Mentorship**: Assisted 60+ students in decision trees, forecasting, and optimization techniques.
+## 💼 **Experience**  
 
-🛠 **Hands-On Learning**: Led 5+ technical workshops on StatTools, Precision Tree, and R for applied analytics.
+### 🔹 **Product Intelligence Intern | EZO**  
+- 🛠 **Optimized** workflows across **15+ processes**, improving efficiency.  
+- 📊 **Built an ML model** (82% accuracy) to forecast customer subscriptions.  
+- 🔍 **Conducted competitive analysis** to reduce churn.  
 
-📊 **Industry Collaboration**: Supervised 21 real-world projects, working with companies like Askari Bank & Al-Khair Foam.
+### 🎓 **Teaching Assistant | LUMS**  
+- 📚 Mentored **60+ students** in decision trees, forecasting, and optimization.  
+- 🛠 Led **5+ workshops** on R, StatTools, and Precision Tree.  
+- 📊 Supervised **21 industry projects** with companies like **Askari Bank & Al-Khair Foam**.  
 
-### 🚀 Growth & Strategy Intern | Out-Class (EdTech Startup)
-📈 **Strategic Growth**: Co-led 10+ cross-functional projects in Product, Marketing, Growth, & CRM to drive expansion.
+### 🚀 **Growth & Strategy Intern | Out-Class (EdTech Startup)**  
+- 📈 Co-led **10+ projects** across **Product, Marketing, Growth & CRM**.  
+- 📢 Managed **600+ member** WhatsApp communities & led **4 major webinars**.  
+- 🤝 **Secured partnerships** with **Johnny & Jugnu, APSACS & The Educators**, funding education for **3 schools in Gilgit**.  
 
-📢 **Community Building**: Managed 4 high-impact webinars and built a 600+ member engaged WhatsApp community.
+---
 
-📊 **Market Research**: Conducted surveys with 340+ respondents, refining product-market fit for key segments.
+## 🚀 **Highlighted Projects**  
 
-🤝 **Partnership Development**: Secured collaborations with Johnny & Jugnu, APSACS, and The Educators, funding education for 3 schools in Gilgit Baltistan.
+### 🌿 **Product-Market Fit for a Perfume Startup** *(R, Behavioral Analytics)*  
+- 📊 **Surveyed 65+ customers** to analyze preference trends.  
+- 🔍 Used **logistic regression & Kansei Analysis** to segment user preferences.  
+- 📈 Built a **market share simulator** to forecast demand.  
 
-## 🚀 Notable Projects
-### 🌿 Establishing Product-Market Fit for a Perfume Startup 
-📊 **Conjoint Analysis**: Designed a 6-attribute survey for 65+ customers to analyze preference trends.
+### 🏗 **Strategic Decision-Making for Aziz Industries** *(Monte Carlo, Decision Trees)*  
+- 📊 Analyzed **vertical integration vs. asset liquidation**.  
+- 🔍 Used **Monte Carlo simulations** for risk forecasting.  
+- 💰 Recommended **asset liquidation**, leading to **PKR 868.7M in additional returns**.  
 
-🔍 **Behavioral Segmentation**: Used multinomial logistic models & Kansei Analysis in R to develop 4 distinct perfume profiles, utilizing behavioral analytics.
+### 📦 **Optimizing Logistics for Maria B.** *(Regression, Demand Forecasting)*  
+- 📊 **Predicted demand** across **24 stores** using seasonality models.  
+- 🚚 **Optimized courier allocation**, reducing costs by **PKR 3.2M+ annually**.  
 
-📈 **Market Simulation**: Built a share simulator to forecast demand and conducted price elasticity analysis.
+---
 
-### 🏗 Strategic Decision-Making for Aziz Industries (Steel & Rebar Production)
-📊 **Scenario Analysis**: Evaluated whether to vertically integrate into steel bars (Rebar) or liquidate assets.
+## 🛠 **Tech Stack**  
+💻 **Languages:** Python, R, SQL, C++  
+📊 **Data & BI Tools:** Power BI, Tableau, STATA, SPSS, Mixpanel 
 
-🔍 **Risk Assessment**: Used Monte Carlo simulations & Sensitivity Analysis for financial forecasting.
+---
 
-💰 **Final Recommendation**: Proposed asset liquidation, leading to PKR 868.7M higher returns in Expected Monetary Value (EMV).
+## 🌱 **Beyond Work**  
+- 🌍 **Current Affairs** – Exploring global trends & economic shifts.  
+- 🎧 **Podcasts** – Deep dives into strategy, tech, and decision-making.  
+- 🏸 **Squash** – A mix of strategy & speed on the court.  
 
-### 📦 Optimizing Outbound Logistics for Maria B.
-🔹 **Demand Forecasting**: Predicted MoM demand for 24+ stores nationwide, integrating seasonality & regression models.
+---
 
-🔹 **Logistics Optimization**: Assessed 5 courier services & 4 travel modes under 50+ constraints.
-
-💰 **Impact**: Developed an interactive allocation model, saving PKR 3.2M+ annually in logistics costs.
-
-## 🛠 Technical Proficiency
-**Programming Languages**: Python, R, SQL, C++
-
-**Data Analysis Tools**: STATA, SPSS, Excel, VBA
-
-**Business Intelligence Platforms**: Power BI, Tableau, Mixpanel
-
-## 🌱 Personal Interests
-Beyond academics and professional pursuits, I am deeply interested in:
-
-**Current Affairs**: Keeping abreast of global events and understanding their implications.
-
-**Podcasts**: Engaging with content that offers fresh perspectives and insights.
-
-**Squash**: Enjoying the strategic and physical challenges of the beautiful game.
+### 🔗 **Let’s Connect!**  
+📩 **Email:** [rayank440@outlook.com]  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/rayankhan3/] 
