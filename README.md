@@ -30,7 +30,7 @@ I’m a **data scientist & strategist**, passionate about turning complex data i
 
 ---
 
-## 🚀 **Highlighted Projects**  
+## 🚀 **Notable Projects**  
 
 ### 🌿 **Product-Market Fit for a Perfume Startup** *(R, Behavioral Analytics)*  
 - 📊 **Surveyed 65+ customers** to analyze preference trends.  
