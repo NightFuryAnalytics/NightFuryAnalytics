@@ -78,7 +78,7 @@ I’m a **data scientist & strategist**, passionate about turning complex data i
 ---
 
 ### 🔗 **Let’s Connect!**  
-📩 **Email:** [Email](rayank440@outlook.com) 
+📩 **Email:** [Email](mailto:rayank440@outlook.com)
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rayankhan3/)
 ✍️ **Medium:** [Blog](https://medium.com/@rayank880)
 
