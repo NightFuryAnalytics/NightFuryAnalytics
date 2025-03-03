@@ -13,7 +13,7 @@ I’m a **data scientist & strategist**, passionate about turning complex data i
 
 ## 💼 **Experience**  
 
-### 🔹 **Product Intelligence Intern | EZO**  
+### 🔹 **Product Intelligence Analyst | EZO**  
 - 🛠 **Optimized** workflows across **15+ processes**, improving efficiency.  
 - 📊 **Built an ML model** (82% accuracy) to forecast customer subscriptions.  
 - 🔍 **Conducted competitive analysis** to reduce churn.  
