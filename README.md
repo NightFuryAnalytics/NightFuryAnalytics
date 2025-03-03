@@ -1,4 +1,4 @@
-# 👋 Welcome to my life story!  
+# 👋 Welcome to my life!  
 
 ### 🔍 Data Science | Strategy | Business Impact  
 
