@@ -34,23 +34,31 @@ I’m a **data scientist & strategist**, passionate about turning complex data i
 
 ### 🌿 **Product-Market Fit for a Perfume Startup** *(R, Behavioral Analytics)*  
 - 📊 **Surveyed 65+ customers** to analyze preference trends.  
-- 🔍 Used **logistic regression & Kansei Analysis** to segment user preferences.  
+- 🔍 Used **logistic regression & Kansei Analysis** to segment user preferences and craft **distinct behavioral profiles**.  
 - 📈 Built a **market share simulator** to forecast demand.  
 
 ### 🏗 **Strategic Decision-Making for Aziz Industries** *(Monte Carlo, Decision Trees)*  
 - 📊 Analyzed **vertical integration vs. asset liquidation**.  
 - 🔍 Used **Monte Carlo simulations** for risk forecasting.  
-- 💰 Recommended **asset liquidation**, leading to **PKR 868.7M in additional returns**.  
+- 💰 Recommended **asset liquidation**, leading to **$5.6 million** in additional returns.  
 
 ### 📦 **Optimizing Logistics for Maria B.** *(Regression, Demand Forecasting)*  
-- 📊 **Predicted demand** across **24 stores** using seasonality models.  
-- 🚚 **Optimized courier allocation**, reducing costs by **PKR 3.2M+ annually**.  
+- 📊 **Predicted nationwide demand** across **24 stores** using seasonality models.  
+- 🚚 **Optimized courier allocation**, reducing costs by **$25,000 annually**.  
+
+---
+## 🏆 **Awards & Honors**  
+- 🎓 **Dean’s Honor List** (2022-25) – Recognized for academic excellence.  
+- 🏅 **50% Merit Scholarship at LUMS** (2022-25) – Awarded for outstanding performance.  
+- 🎖 **National Distinction in CAIE A-Levels** – Recognized as an **Outstanding Cambridge Learner**.  
+- 📊 **Certified Business Intelligence Analyst** – **Tableau, Power BI, Python** *(Certified by Tableau & Datacamp)*.  
+- 🤖 **Deep Learning Specialization** *(Certified by DeepLearning.AI)*.  
 
 ---
 
 ## 🛠 **Tech Stack**  
 💻 **Languages:** Python, R, SQL, C++  
-📊 **Data & BI Tools:** Power BI, Tableau, STATA, SPSS, Mixpanel 
+📊 **Data & BI Tools:** Power BI, Tableau, STATA, SPSS, Mixpanel, Excel, Palisade Suite, VBA 
 
 ---
 
