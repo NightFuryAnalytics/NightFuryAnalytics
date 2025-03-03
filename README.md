@@ -38,11 +38,11 @@ I’m a **data scientist & strategist**, passionate about turning complex data i
 - 📈 Built a **market share simulator** to forecast demand. Perfumes @ [Fragonia](https://fragonia.com.pk/)
 
 ### 📰 Classifying Urdu News Articles Using ML *(Python, NLP)*  
-Scraped **1,500+ articles**, built an **ML pipeline**, and optimized classification with **98% accuracy**.  
+- Scraped **1,500+ articles**, built an **ML pipeline**, and optimized classification with **98% accuracy**.  
 🔗 [Repo](https://github.com/NightFuryAnalytics/multi-text-classification)
 
 ### ❤️ Predicting Heart Failure Mortality *(Python, ML)*  
-Cleaned & analyzed **patient data**, trained **Logistic Regression, Naïve Bayes, & Decision Trees**, achieving **73% accuracy**.  
+- Cleaned & analyzed **patient data**, trained **Logistic Regression, Naïve Bayes, & Decision Trees**, achieving **73% accuracy**.  
 🔗 [Repo](https://github.com/NightFuryAnalytics/heart_failure)  
 
 ### 🏗 Strategic Decision-Making for Aziz Industries *(Monte Carlo, Decision Trees)*  
