@@ -13,17 +13,17 @@ I’m a **data scientist & strategist**, passionate about turning complex data i
 
 ## 💼 **Experience**  
 
-### 🔹 **Product Intelligence Analyst | EZO**  
+### 🔹 **Product Intelligence Analyst | [EZO](https://ezo.io/)**
 - 🛠 **Optimized** workflows across **15+ processes**, improving efficiency.  
 - 📊 **Built an ML model** (82% accuracy) to forecast customer subscriptions.  
 - 🔍 **Conducted competitive analysis** to reduce churn.  
 
-### 🎓 **Teaching Assistant | LUMS**  
+### 🎓 **Teaching Assistant | [LUMS](https://lums.edu.pk/)**  
 - 📚 Mentored **60+ students** in decision trees, forecasting, and optimization.  
 - 🛠 Led **5+ workshops** on R, StatTools, and Precision Tree.  
 - 📊 Supervised **21 industry projects** with companies like **Askari Bank & Al-Khair Foam**.  
 
-### 🚀 **Growth & Strategy Intern | Out-Class (EdTech Startup)**  
+### 🚀 **Growth & Strategy Intern | [Out-Class](https://www.out-class.org/) (EdTech Startup)**  
 - 📈 Co-led **10+ projects** across **Product, Marketing, Growth & CRM**.  
 - 📢 Managed **600+ member** WhatsApp communities & led **4 major webinars**.  
 - 🤝 **Secured partnerships** with **Johnny & Jugnu, APSACS & The Educators**, funding education for **3 schools in Gilgit**.  
