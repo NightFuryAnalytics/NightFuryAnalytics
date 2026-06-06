@@ -13,7 +13,7 @@ I’m a **data scientist & strategist**, passionate about turning complex data i
 
 ## 💼 **Experience**  
 
-### 🔹 **Product Intelligence Analyst | [EZO](https://ezo.io/)**
+### 🔹 **Product Intelligence Analyst | [7 Vals](https://www.7vals.com/)**
 - 🛠 **Optimized** workflows across **15+ processes**, improving efficiency.  
 - 📊 **Built an ML model** (82% accuracy) to forecast customer subscriptions.  
 - 🔍 **Conducted competitive analysis** to reduce churn.  
