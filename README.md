@@ -1,4 +1,4 @@
-# Hi, I'm Rayan
+# Hi, I'm Rayan 👋
 
 **AI agents · Applied machine learning · Product analytics**
 
