@@ -17,7 +17,7 @@ I'm a **Product Manager II at Dubizzle Cars**, with a background in **data scien
 ### 🤖 AI Agents & Automation
 
 - 💬 Deployed a **WhatsApp AI agent** for **5,500 monthly inspection leads**, achieving a **45% qualification rate**.
-- 🎙️ Launched **Zara**, an ElevenLabs voice agent that responds to leads in **under 5 seconds** and achieved a **45% booking rate**.
+- 🎙️ Launched **Zara**, an ElevenLabs voice agent that responds to leads in **under 5 seconds** and achieved a **63% booking rate**.
 - 🔗 Connected agents to **CRM and payment APIs**, with prompt iteration, guardrails, and fallback flows.
 
 ### 🧠 Machine Learning & Predictive Analytics
